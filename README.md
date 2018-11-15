@@ -29,8 +29,10 @@ $ yarn <название команды>
   </thead>
   <tbody>
     <tr>
-      <td>Название команды</td>
-      <td>Описание команды</td>
+      <td>
+        <code>...</code>
+      </td>
+      <td>...</td>
     </tr>
   </tbody>
 </table>
